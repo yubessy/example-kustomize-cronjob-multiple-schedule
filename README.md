@@ -1,6 +1,6 @@
 # example-kustomize-cronjob-multiple-schedule
 
-Example kustomization to generate multiple cronjobs from template using multibase.
+Example kustomization to generate multiple cronjobs from one common template.
 
 Run:
 
