@@ -1,0 +1,6 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+bases:
+- ./schedules/0-0-any-any-any
+- ./schedules/0-9-any-any-any
+- ./schedules/0-0-any-any-monday
