@@ -1,4 +1,4 @@
-# example-kustomize-cronjob-generation
+# example-kustomize-cronjob-multiple-schedule
 
 Example kustomization to generate multiple cronjobs from template using multibase.
 
